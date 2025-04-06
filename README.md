@@ -1,5 +1,5 @@
 # Mahjong Tile Solver
-![Preview](preview.jpg)
+![Preview](preview.png)
 
 A simple and interactive Mahjong Tile Solver Web app. Helps a player to keep track of what direction order to hit on the pylon.
 
