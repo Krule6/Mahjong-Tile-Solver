@@ -3,5 +3,5 @@ A simple and interactive Mahjong Tile Solver Web app. Helps players to keep trac
 ## Preview
 ![Preview](preview.png)
 ## Installation
-1. Download the ZIP file (mahjong-tile-solver.zip).
+1. Download the ZIP file [Download File](mahjong-tile-solver.zip).
 2. Unzip it and open `start-html` in your preffered web browser(chrome, safari etc).
