@@ -1,6 +1,6 @@
 # Mahjong Tile Solver
 
-A simple and interactive Mahjong Tile Solver Web app. It allows you to keep track of the mahjong tiles to solve the correct order. 
+A simple and interactive Mahjong Tile Solver Web app. Helps a player to keep track of what direction order to hit on the pylon.
 
 ## Installation
 1. Download the ZIP file
