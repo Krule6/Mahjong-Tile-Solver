@@ -8,6 +8,7 @@ function calculateTileOrder() {
             return { direction: dir, value: null };
         } else {
             return { direction: dir, value: colors[color] };
+            
         }
     });
 
