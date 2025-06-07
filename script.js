@@ -7,8 +7,7 @@ function calculateTileOrder() {
         if (!color || isNaN(colors[color])) {
             return { direction: dir, value: null };
         } else {
-            return { direction: dir, value: colors[color] };
-            
+            return { direction: dir, value: colors[color] };   
         }
     });
 
