@@ -1,5 +1,5 @@
 # Mahjong Tile Solver
-A simple and interactive Mahjong Tile Solver Web app. Helps players to keep track of which order to hit each corner on the pylon for the last step of the Die Rise Easter Egg (Richtofen side).
+A simple and interactive Mahjong Tile Solver web app. Helps players to keep track of which order to hit each corner on the pylon for the last step of the Die Rise Easter Egg (Richtofen side).
 ## Preview
 ![Preview](preview.png)
 ## Installation
